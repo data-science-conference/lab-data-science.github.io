@@ -1,5 +1,5 @@
 ---
-title: "Exploratory Data Analysis"
+title: "Lecture 2: Exploratory Data Analysis"
 author: "Falco J. Bargagli Stoffi"
 date: "05/06/2020"
 output:
